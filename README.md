@@ -222,6 +222,7 @@ This is inherent to batch processing in general.
 ## Alternatives
 
 [pluck_in_batches](https://github.com/fatkodima/pluck_in_batches)
+
 [each_batched](https://github.com/dburry/each_batched)
 
 I am probably missing a lot here..
